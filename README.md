@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dollcreed
 - 👀 I’m interested in UX Design and Web development
-- 🌱 I’m currently learning UX Design and JavaScript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on UX and web development
 📫 You can reach me by mail on bodeolapade@gmail.com
 
